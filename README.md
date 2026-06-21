@@ -23,7 +23,7 @@
 
 | project | type | description | status | server status |
 | --- | --- | --- | --- | --- |
-| **Facet** | platform | link-sharing architecture | `deprecated_unmaintained` | `offline` |
+| **Facet** | platform | link-sharing social media | `deprecated_unmaintained` | `offline` |
 | **NeBot** | automation | discord moderation and fun bot | `active_prod` | `online` |
 | **Nefu** | language | custom programming language & grammar parser | `active_dev` | `n/a` |
 | **Nova** | hardware/soft | modular, hackable arduino phone with its own network | `prototyping_pre-dev` | `n/a` |
