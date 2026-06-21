@@ -1,16 +1,29 @@
-## Hi there 👋
+# ✦ hi, i'm asumi! ✦
 
-<!--
-**nebuff/nebuff** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### ✦ about me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+> ❝ building cool things and breaking things ❞
+
+* **focus:** web development / back-end systems / software architecture
+* **infrastructure:** self-hosting nextcloud, jellyfin, vm's and discord bots
+
+---
+
+### ✦ tech stack & tools
+
+* **environments & OS:** darwin, linux (debian/fedora architectures)
+* M1 Macbook Air 8GB! 8-Core GPU 8-Core CPU
+* AMD Phenom II X6 Desktop NAS
+
+---
+
+### ✦ current project status
+
+| project | type | description | status | server status |
+| --- | --- | --- | --- | --- |
+| **Facet** | platform | link-sharing architecture | `deprecated_unmaintained` | `offline` |
+| **NeBot** | automation | discord moderation and fun bot | `active_prod` | `online` |
+| **Nefu** | language | custom programming language & grammar parser | `active_dev` | `n/a` |
+| **Nova** | hardware/soft | modular, hackable arduino phone with its own network | `prototyping_pre-dev` | `n/a` |
