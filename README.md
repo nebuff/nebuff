@@ -9,6 +9,8 @@
 * **current focus:** operating system programming
 * **infrastructure:** self-hosting nextcloud, jellyfin, vm's and discord bots
 
+* **SORRY!** Most of my repo's are privated because im paranoid about people stealing my code, and people criticising it from past expirences
+
 ---
 
 ### ✦ tech stack & tools
