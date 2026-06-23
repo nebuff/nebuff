@@ -6,16 +6,18 @@
 
 > ❝ building cool things and breaking things ❞
 
-* **focus:** web development / back-end systems / software architecture
+* **current focus:** operating system programming
 * **infrastructure:** self-hosting nextcloud, jellyfin, vm's and discord bots
 
 ---
 
 ### ✦ tech stack & tools
 
-* **environments & OS:** darwin, linux (debian/fedora architectures)
+* **environments & OS:** darwin, linux, haiku
 * M1 Macbook Air 8GB! 8-Core GPU 8-Core CPU
 * AMD Phenom II X6 Desktop NAS
+* T60 T7200 4gb Ram
+* R51 Dothan 1gb Ram
 
 ---
 
