@@ -28,6 +28,6 @@
 | project | type | description | status | server status |
 | --- | --- | --- | --- | --- |
 | **Facet** | platform | link-sharing social media | `deprecated_unmaintained` | `offline` |
-| **NeBot** | automation | discord moderation and fun bot | `active_prod` | `online` |
+| **N/BOT** | automation | discord moderation and fun bot | `active_prod` [Invite N/BOT](https://discord.com/oauth2/authorize?client_id=1502691892159184947) | `online` |
 | **Nefu** | language | custom programming language & grammar parser | `active_dev` | `n/a` |
 | **Nova** | hardware/soft | modular, hackable arduino phone with its own network | `prototyping_pre-dev` | `n/a` |
