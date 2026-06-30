@@ -13,6 +13,20 @@
 
 ---
 
+### ✦ common questions
+
+* **gender?** negender
+* **sexual orientation?** none *(litterally)*
+* **romantic orientation?** panromantic
+* **human?** no
+* **cat?** maybe to be honest
+* **whats your actual gender?** librafeminine
+* **are you still reading this?** no
+* **why are you still reading theres nothing else** what if there is though
+* **THERE IS!** what?
+
+---
+
 ### ✦ tech stack & tools
 
 * **environments & OS:** darwin, linux, haiku
