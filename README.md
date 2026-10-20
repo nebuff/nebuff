@@ -1,6 +1,6 @@
-**nebuff/nebuff** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**nebuff/nebuff** is ✨ _special_ ✨ 
 
-hey, im nebuff! 14y/o developer working on just the most random projects you could think of
+nebuff! shes a 14y/o developer working on just the most random projects you could think of
 
 my tech:
 thinkpad x13 gen 1 rysen 5 4650U 8gb japan
