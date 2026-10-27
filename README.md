@@ -1,7 +1,8 @@
 **nebuff/nebuff** is someone who goes by many name.
-ru/rumi
-asu/asumi/asumihoshino
-nebuff
+
+- ru/rumi
+- asu/asumi/asumihoshino
+- nebuff
 
 my tech:
 thinkpad x13 gen 1 rysen 5 4650U 8gb japan
