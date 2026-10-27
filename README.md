@@ -1,6 +1,6 @@
 **nebuff/nebuff** is someone who goes by many name.
 ru/rumi
-asumi/asumihoshino
+asu/asumi/asumihoshino
 nebuff
 
 my tech:
