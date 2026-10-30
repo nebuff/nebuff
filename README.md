@@ -4,6 +4,13 @@
 - asu/asumi/asumihoshino
 - nebuff
 
+## Email me
+- if you want help with a project getting ported/built/maintained for fedora/debian linux
+- if you want someone to maintain an old project/port to a new gnu/linux operating system
+- if you want someone too build and host projects on a repo avalible for alpine (apk), apt, dnf and pacman/build them
+- or anything random else im really bored...
+  email: nebuff@proton.me
+
 my tech:
 thinkpad x13 gen 1 rysen 5 4650U 8gb japan
 i use all 8gb and my computer get slow when programming... get 16gb of ram if you can.
