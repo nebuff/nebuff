@@ -18,6 +18,12 @@ thinkpad x13 gen 1 rysen 5 4650U 8gb japan
 i use all 8gb and my computer get slow when programming... get 16gb of ram if you can.
 fedora for life, kde linux
 
+languages i know:
+english: native
+japanese: N3-2???
+russian: yes
+polski: also. yes
+
 thoughts on ai:
 i use it for code cleanly-ness, help with test scripts and issue posting. and thats about it.
 
