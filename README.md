@@ -1,4 +1,7 @@
 There used to be a cool README here, but I gave up after a minute. It included languages ​​I know, and it was just so great… but now it’s gone.
+If your interested in what im working on here it is!
+https://github.com/ganten1998/grimoire-scribe
+Working on it with Ganten!
 
 昔はここにかっこいいREADMEがあったけど、1分で諦めた。使える言語が載っててめっちゃ良かったのに、今はもうない。
 
